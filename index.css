@@ -1,0 +1,75 @@
+header{
+	margin-top: 30px;
+} 
+
+#marca {
+	font-size: 22px;
+	font-family: Sweet Sans Pro, sans-serif;
+	font-weight: normal;
+	color: #808080;
+	display: inline;
+	margin-left: 70px;
+} 
+
+#marca:hover {
+    color: #ffffff;
+}
+
+#nav {
+	font-size: 11px;
+	font-family: Sweet Sans Pro, sans-serif;
+	font-weight: normal;
+	letter-spacing: 3px;
+	float: right;
+	margin-right: 70px;
+	word-spacing: 50px;
+}
+
+
+li, a {
+	color: #cccccc;
+	text-decoration: none;
+	display: inline;
+}
+
+
+a:hover {
+    color: #3a3a3a;
+}
+
+.tours {
+    background-image: url("Imagenes/lihome2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-left: 70px;
+
+
+}
+
+
+.tours-titulo {
+    font-size: 30px;
+	font-family: Sweet Sans Pro, sans-serif;
+	font-weight: normal;
+	letter-spacing: 3px;
+	color: #ffffff;
+	text-align: center;
+}
+
+
+.tours-subtitulo {
+    font-size: 13px;
+	font-family: Sweet Sans Pro, sans-serif;
+	font-weight: normal;
+	letter-spacing: 3px;
+	color: #ffffff;
+	text-align: center;
+
+}
+
+
+
+
